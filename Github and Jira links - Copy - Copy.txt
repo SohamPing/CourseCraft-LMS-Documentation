@@ -1,0 +1,5 @@
+Jira: https://p565lms.atlassian.net/jira/software/projects/PSLG/boards/1/backlog
+
+Github Backend: https://github.com/nihalshetty-boop/P565-SP24-LMS-G21-Backend/tree/master
+
+Github Frontend: https://github.com/nihalshetty-boop/P565-SP24-LMS-G21-Frontend
